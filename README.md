@@ -117,3 +117,4 @@ if __name__ == "__main__":
 ![Screenshot 2024-09-28 090104](https://github.com/user-attachments/assets/b3b65471-b69a-4fa0-970e-b85ff75feb3f)
 
 ### Result:
+Thus, the implemenation of Information Retrieval Using Boolean Model had been successfully done using Python.
